@@ -1,0 +1,136 @@
+# Madhuranjan Kumar - Detailed Professional Profile
+
+## Personal Information
+**Name:** Madhuranjan Kumar  
+**Location:** Kolkata, West Bengal, India  
+**Phone:** +911234567890
+**Email:** madhuranjan763@gmail.com  
+**Professional Profiles:** 
+    LinkedIn profile: https://www.linkedin.com/in/madhuranjankumar763/
+    GitHub repository: https://github.com/madhuranjank6
+
+## Professional Summary
+Madhuranjan Kumar is an innovative Generative AI developer with more than one and a half years of professional experience in building and deploying sophisticated Generative AI applications using Python. He possesses advanced skills in leveraging Large Language Models (LLMs) and Natural Language Processing (NLP) technologies to create impactful solutions including conversational AI chatbots, intelligent AI agents, and Retrieval-Augmented Generation (RAG) systems. Throughout his career, Madhuranjan has demonstrated expertise in integrating AI workflows with various cloud platforms and diverse datasets to develop scalable, high-performance solutions that meet specific business requirements and user needs.
+
+## Professional Experience
+
+### Associate GenAI Engineer
+**Company:** IndusNet Technologies  
+**Duration:** July 2024 - Present  
+**Responsibilities and Achievements:**
+
+- Developed cutting-edge applications utilizing advanced Large Language Models (LLMs) to achieve exceptional accuracy and efficiency in various business contexts. These applications were designed to handle complex natural language processing tasks with high precision and reliability.
+
+- Built and continuously optimized sophisticated Retrieval-Augmented Generation (RAG) systems that enhanced information retrieval capabilities by combining the generative power of large language models with structured knowledge bases. These systems showed marked improvements in providing contextually relevant and accurate information.
+
+- Designed, implemented, and refined intelligent chatbots and AI agents capable of understanding user intent, maintaining context throughout conversations, and delivering personalized responses. These implementations resulted in quantifiable improvements in user engagement metrics and interaction quality.
+
+- Successfully integrated AI systems with diverse data sources including structured databases, unstructured documents, APIs, and real-time data streams. This integration enhanced the functionality and relevance of AI applications by approximately 30%, allowing for more comprehensive and accurate responses based on a wider information context.
+
+### Associate Software Engineer
+**Company:** IndusNet Technologies  
+**Duration:** July 2023 - July 2024  
+**Responsibilities and Achievements:**
+
+- Designed, implemented, and optimized data pipelines for efficient data processing, ensuring smooth data flow from acquisition to analysis. Conducted comprehensive feature engineering to clean, transform, and enrich datasets, which significantly improved the quality of data visualization and predictive insights generated from the data.
+
+- Researched and successfully implemented state-of-the-art Natural Language Processing (NLP) techniques to address various business challenges. Applied these techniques to tasks such as sentiment analysis for customer feedback evaluation, text summarization for document processing, and keyword extraction for content categorization and search optimization.
+
+- Systematically explored and evaluated various Generative AI frameworks, tools, and methodologies to prototype innovative solutions addressing specific business needs. This exploration led to improved efficiency in text generation applications, content creation workflows, and other AI-driven applications within the organization.
+
+## Project Portfolio
+
+### SmartDocSearch
+**Technologies Used:** Python, FastAPI, Amazon Web Services (AWS), PostgreSQL, Large Language Models (LLM), LangChain, LangSmith
+
+**Project Description and Contributions:**
+
+- Designed and successfully deployed an Intelligent Retrieval-Augmented Generation (RAG) Platform with advanced capabilities for document processing and querying. The system was built to efficiently handle documents stored in AWS S3 buckets, leveraging PostgreSQL's pgvector extension for storing and querying vector embeddings. Implemented robust ethical query validation mechanisms to ensure responsible AI usage and prevent misuse of the system.
+
+- Developed a comprehensive suite of APIs using FastAPI framework, providing a robust interface for client applications to interact with the document search functionality. Complemented this with AWS Lambda functions strategically deployed for specific tasks requiring serverless architecture. This architecture enabled real-time streaming of responses from Anthropic's Claude 3.5 Sonnet model accessed through AWS Bedrock, providing users with immediate feedback and improving the overall user experience.
+
+- Implemented sophisticated evaluation pipelines using LangSmith to continuously monitor and improve the quality of responses generated by the system. Created specialized agents using LangChain frameworks that enforced ethical guidelines throughout the document handling process, including the screening of both document content and user queries to ensure compliance with established ethical standards and business policies.
+
+### Briefing Note Writer Agent
+**Technologies Used:** Python, Flask, OpenAI, PostgreSQL, LangChain, LangGraph
+
+**Project Description and Contributions:**
+
+- Developed an intelligent Briefing Note Writer Agent designed to streamline the complex process of querying and consolidating information from documents distributed across multiple government departments. The agent was capable of transforming disparate sources of information into cohesive, well-structured briefing notes that followed standardized formats and met specific organizational requirements.
+
+- Designed and implemented a robust PostgreSQL database pipeline to efficiently manage extensive document collections. This pipeline provided seamless document management capabilities including efficient insertion of new documents, updating of existing information, and deletion of obsolete or redundant documents. The implementation ensured data integrity and quick retrieval of relevant information when needed.
+
+- Created and deployed specialized intelligent agents using LangChain and LangGraph frameworks to aggregate and synthesize responses from various departmental sources. These agents were designed to ensure comprehensive data retrieval by identifying and addressing information gaps, maintaining consistency in formatting, and adhering to standardized reporting structures required for government documentation.
+
+### AI-Driven OCR and Information Parser
+**Technologies Used:** Python, OpenAI, ChromaDB, LangChain, Streamlit
+
+**Project Description and Contributions:**
+
+- Developed a sophisticated Optical Character Recognition (OCR) system that seamlessly integrated with Retrieval-Augmented Generation (RAG) technologies. This system was specifically designed to extract key information from scanned PDF documents in over 20 regional Indian languages, addressing the challenge of linguistic diversity in document processing applications within the Indian context.
+
+- Designed and implemented an advanced language detection methodology that significantly enhanced text extraction accuracy. This methodology was crucial for properly handling documents containing multiple languages or regional dialects, ensuring that the appropriate OCR models and language processing techniques were applied to each document section.
+
+- Optimized text processing workflows to efficiently handle large documents while managing token length constraints imposed by language models. Applied sophisticated prompt engineering techniques to direct the AI's attention to specific document sections and extract targeted information according to precise project requirements and business rules.
+
+## Technical Skills
+
+### Programming Languages
+- **Python:** Advanced proficiency in Python programming, with extensive experience in data processing, AI application development, and backend services.
+- **Java:** Solid understanding and practical experience with Java programming for application development.
+- **C/C++:** Working knowledge of C and C++ programming languages for system-level development.
+- **SQL:** Proficient in SQL query language, with specific experience in PostgreSQL and MySQL database systems.
+- **JavaScript:** Practical experience with JavaScript for web development and frontend functionality.
+- **HTML/CSS:** Proficient in HTML and CSS for web interface development and styling.
+
+### Frameworks and Libraries
+- **LangChain:** Advanced experience implementing LLM applications using the LangChain framework for complex AI workflows.
+- **LLamaIndex:** Skilled in utilizing LLamaIndex for creating and managing information retrieval systems with LLMs.
+- **LangGraph:** Experience in implementing sophisticated AI agent workflows using the LangGraph framework.
+- **LangSmith:** Proficient in using LangSmith for testing, evaluating, and monitoring LLM-powered applications.
+- **Flask:** Strong experience developing web applications using the lightweight Flask framework.
+- **Django:** Knowledge of building scalable web applications using the comprehensive Django framework.
+- **FastAPI:** Advanced skills in creating high-performance APIs using FastAPI for machine learning and AI applications.
+
+### AI Technologies
+- **Large Language Models (LLMs):** In-depth experience working with various large language models for diverse applications.
+- **Natural Language Processing (NLP):** Strong background in applying NLP techniques for text analysis and understanding.
+- **Retrieval-Augmented Generation (RAG):** Specialized expertise in designing and optimizing RAG systems.
+- **Machine Learning:** Solid foundation in machine learning principles and applications.
+- **Artificial Intelligence:** Broad understanding of AI concepts, applications, and ethical considerations.
+- **Generative AI (GenAI):** Advanced skills in developing applications using generative AI technologies.
+
+### Cloud and Security Tools
+- **Amazon Web Services (AWS):** Experience with various AWS services for deployment and scaling of AI applications.
+- **Google Cloud Platform (GCP):** Practical knowledge of GCP services for cloud-based application development.
+
+### Other Technical Skills
+- **Prompt Engineering:** Advanced expertise in crafting effective prompts for optimal LLM performance.
+- **Git/GitHub:** Proficient in version control using Git and collaborative development through GitHub.
+- **Postman:** Experience in API testing and documentation using Postman.
+- **BitBucket:** Familiar with BitBucket for code management and collaboration.
+- **MySQL:** Skilled in database design and management using MySQL.
+- **PowerBI Desktop:** Experience in data visualization and business intelligence using PowerBI.
+
+## Education
+
+### Bachelor of Technology in Computer Science and Engineering
+**Institution:** Bengal College of Engineering and Technology  
+**Duration:** August 2019 - June 2023  
+**Academic Performance:** GPA of 9.36 out of 10
+**Coursework:** Computer Science curriculum including programming, data structures, algorithms, database management, software engineering, and artificial intelligence.
+
+### Senior Secondary Education (12th Standard)
+**Institution:** Manas International Public School  
+**Duration:** May 2017 - May 2018  
+**Academic Performance:** GPA of 7.76 out of 10
+**Subjects:** Science stream with focus on Mathematics, Physics, Chemistry, and Computer Science.
+
+### Secondary Education (10th Standard)
+**Institution:** Gyansthali High School  
+**Duration:** May 2015 - May 2016  
+**Academic Performance:** Perfect GPA of 10 out of 10
+**Subjects:** Comprehensive curriculum including Mathematics, Science, Languages, and Social Studies.
+
+## Professional Development
+Madhuranjan consistently keeps his skills updated by following the latest developments in AI and machine learning technologies, participating in relevant online courses, and experimenting with new tools and frameworks in the rapidly evolving field of generative AI.
